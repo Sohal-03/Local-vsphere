@@ -1,5 +1,5 @@
 provider "vsphere" {
-    name = "administrator@Time.com"
+    name = "administrator@tech.com"
     password = "Sohal@2004"
-    vsphere_server = "192.168.17.183"
+    vsphere_server = "192.168.20.139"
 }
